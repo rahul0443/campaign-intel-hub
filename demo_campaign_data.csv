@@ -1,0 +1,121 @@
+campaign_id,campaign_name,channel,funnel_stage,team,region,quarter,status,start_date,spend,impressions,clicks,ctr,conversions,conversion_rate,cpc,cpa,revenue_attributed,roas,engagement_score,is_anomaly_flag
+CMP-1000,Q1 Product Launch - Q3 2025,Paid Search,Awareness,Demand Gen,North America,Q3 2025,Active,2025-07-21,6357.06,396123,10023,2.53,553,5.522,0.63,11.5,337751.43,53.13,100.0,False
+CMP-1001,Q1 Product Launch - Q4 2025,Paid Search,Awareness,Demand Gen,EMEA,Q4 2025,Paused,2025-10-05,5772.1,350726,3810,1.086,29,0.772,1.51,199.04,9314.4,1.61,40.2,True
+CMP-1002,Q1 Product Launch - Q1 2026,Paid Search,Awareness,Demand Gen,EMEA,Q1 2026,Completed,2026-01-22,4731.51,410290,14416,3.514,364,2.528,0.33,13.0,114978.22,24.3,100.0,False
+CMP-1003,Enterprise Webinar Series - Q3 2025,Webinar,Consideration,Product Marketing,LATAM,Q3 2025,Paused,2025-07-02,881.36,77357,3313,4.283,256,7.745,0.27,3.44,162430.15,184.29,100.0,False
+CMP-1004,Enterprise Webinar Series - Q4 2025,Webinar,Consideration,Product Marketing,EMEA,Q4 2025,Completed,2025-09-30,1739.57,18238,866,4.753,56,6.492,2.01,31.06,21848.35,12.56,100.0,False
+CMP-1005,Enterprise Webinar Series - Q1 2026,Webinar,Consideration,Product Marketing,North America,Q1 2026,Paused,2026-01-05,1512.43,26417,1372,5.196,71,5.18,1.1,21.3,73884.34,48.85,100.0,False
+CMP-1006,SMB Email Nurture - Q3 2025,Email,Decision,Lifecycle,North America,Q3 2025,Active,2025-07-27,157.73,40093,134,0.336,1,0.989,1.18,157.73,730.24,4.63,55.5,True
+CMP-1007,SMB Email Nurture - Q4 2025,Email,Decision,Lifecycle,LATAM,Q4 2025,Active,2025-10-11,372.49,75644,378,0.501,2,0.759,0.99,186.25,1369.89,3.68,45.2,True
+CMP-1008,SMB Email Nurture - Q1 2026,Email,Decision,Lifecycle,LATAM,Q1 2026,Active,2026-01-13,54.82,25969,245,0.945,1,0.646,0.22,54.82,155.12,2.83,55.7,True
+CMP-1009,Brand Awareness Push - Q3 2025,Display,Awareness,Brand,North America,Q3 2025,Completed,2025-07-09,22234.92,403676,290,0.072,0,0.183,76.67,0.0,0.0,0.0,13.6,True
+CMP-1010,Brand Awareness Push - Q4 2025,Display,Awareness,Brand,APAC,Q4 2025,Completed,2025-10-27,13184.36,65789,432,0.658,2,0.663,30.52,6592.18,1409.06,0.11,76.6,False
+CMP-1011,Brand Awareness Push - Q1 2026,Display,Awareness,Brand,North America,Q1 2026,Paused,2026-01-02,3684.83,200306,1325,0.662,14,1.132,2.78,263.2,1888.13,0.51,100.0,False
+CMP-1012,Customer Onboarding Drip - Q3 2025,Email,Retention,Lifecycle,LATAM,Q3 2025,Completed,2025-07-03,266.35,21483,453,2.111,16,3.58,0.59,16.65,5783.77,21.71,100.0,False
+CMP-1013,Customer Onboarding Drip - Q4 2025,Email,Retention,Lifecycle,EMEA,Q4 2025,Completed,2025-10-29,344.93,45857,1385,3.021,60,4.336,0.25,5.75,39064.33,113.25,100.0,False
+CMP-1014,Customer Onboarding Drip - Q1 2026,Email,Retention,Lifecycle,North America,Q1 2026,Active,2026-01-04,115.06,33864,577,1.704,25,4.475,0.2,4.6,1750.25,15.21,100.0,False
+CMP-1015,LinkedIn ABM Campaign - Q3 2025,Paid Social,Consideration,Demand Gen,EMEA,Q3 2025,Active,2025-07-03,13941.61,389245,8046,2.067,163,2.031,1.73,85.53,111751.99,8.02,100.0,False
+CMP-1016,LinkedIn ABM Campaign - Q4 2025,Paid Social,Consideration,Demand Gen,North America,Q4 2025,Completed,2025-10-02,10866.45,462899,8192,1.77,182,2.233,1.33,59.71,66987.04,6.16,100.0,False
+CMP-1017,LinkedIn ABM Campaign - Q1 2026,Paid Social,Consideration,Demand Gen,North America,Q1 2026,Active,2026-01-22,11766.73,231187,2275,0.984,41,1.816,5.17,286.99,12625.47,1.07,81.9,False
+CMP-1018,Google Ads Retargeting - Q3 2025,Paid Search,Decision,Growth,North America,Q3 2025,Active,2025-07-18,21064.66,58896,3528,5.991,212,6.021,5.97,99.36,54454.2,2.59,100.0,False
+CMP-1019,Google Ads Retargeting - Q4 2025,Paid Search,Decision,Growth,North America,Q4 2025,Active,2025-10-27,10370.12,495762,5816,1.173,46,0.802,1.78,225.44,34292.78,3.31,60.7,True
+CMP-1020,Google Ads Retargeting - Q1 2026,Paid Search,Decision,Growth,LATAM,Q1 2026,Active,2026-01-18,24249.02,313657,16279,5.19,387,2.382,1.49,62.66,51237.48,2.11,87.8,False
+CMP-1021,Partner Co-Marketing - Q3 2025,Content Syndication,Awareness,Field Marketing,EMEA,Q3 2025,Active,2025-07-17,21432.22,45924,905,1.971,28,3.107,23.68,765.44,4003.38,0.19,98.8,False
+CMP-1022,Partner Co-Marketing - Q4 2025,Content Syndication,Awareness,Field Marketing,North America,Q4 2025,Paused,2025-10-17,15008.13,284088,4174,1.469,82,1.967,3.6,183.03,38082.21,2.54,81.5,False
+CMP-1023,Partner Co-Marketing - Q1 2026,Content Syndication,Awareness,Field Marketing,APAC,Q1 2026,Active,2026-01-18,23457.62,14883,256,1.725,10,3.996,91.63,2345.76,3404.56,0.15,94.1,False
+CMP-1024,Renewal Campaign - Q3 2025,Email,Retention,Lifecycle,APAC,Q3 2025,Completed,2025-07-05,184.76,25676,809,3.152,31,3.841,0.23,5.96,18997.21,102.82,100.0,False
+CMP-1025,Renewal Campaign - Q4 2025,Email,Retention,Lifecycle,APAC,Q4 2025,Completed,2025-09-29,439.06,39664,149,0.377,0,0.425,2.95,0.0,0.0,0.0,11.0,True
+CMP-1026,Renewal Campaign - Q1 2026,Email,Retention,Lifecycle,EMEA,Q1 2026,Completed,2026-01-07,252.7,37914,1790,4.722,89,5.007,0.14,2.84,16478.17,65.21,100.0,False
+CMP-1027,Competitive Displacement - Q3 2025,Paid Search,Decision,Demand Gen,EMEA,Q3 2025,Paused,2025-07-11,18789.54,299239,15152,5.064,710,4.691,1.24,26.46,258096.75,13.74,100.0,False
+CMP-1028,Competitive Displacement - Q4 2025,Paid Search,Decision,Demand Gen,North America,Q4 2025,Completed,2025-10-16,4554.25,76818,1748,2.276,66,3.785,2.61,69.0,91270.72,20.04,100.0,False
+CMP-1029,Competitive Displacement - Q1 2026,Paid Search,Decision,Demand Gen,EMEA,Q1 2026,Completed,2026-01-03,14437.2,468601,17838,3.807,886,4.967,0.81,16.29,362670.31,25.12,100.0,False
+CMP-1030,Thought Leadership Blog - Q3 2025,Organic Social,Awareness,Brand,EMEA,Q3 2025,Completed,2025-07-26,368.28,48540,129,0.268,0,0.219,2.85,0.0,0.0,0.0,12.3,True
+CMP-1031,Thought Leadership Blog - Q4 2025,Organic Social,Awareness,Brand,North America,Q4 2025,Active,2025-10-24,235.35,31158,85,0.276,0,0.23,2.77,0.0,0.0,0.0,12.6,True
+CMP-1032,Thought Leadership Blog - Q1 2026,Organic Social,Awareness,Brand,EMEA,Q1 2026,Active,2026-01-18,34.71,41585,339,0.817,4,1.272,0.1,8.68,3813.51,109.87,100.0,False
+CMP-1033,Free Trial Activation - Q3 2025,Email,Decision,Growth,APAC,Q3 2025,Active,2025-07-04,132.73,19208,707,3.684,21,3.081,0.19,6.32,13708.4,103.28,100.0,False
+CMP-1034,Free Trial Activation - Q4 2025,Email,Decision,Growth,EMEA,Q4 2025,Active,2025-10-11,0.85,75575,3013,3.988,161,5.37,0.0,0.01,62253.61,73617.23,100.0,False
+CMP-1035,Free Trial Activation - Q1 2026,Email,Decision,Growth,APAC,Q1 2026,Paused,2026-01-26,62.31,44363,1501,3.384,64,4.318,0.04,0.97,31150.62,499.91,100.0,False
+CMP-1036,Annual Conference Promo - Q3 2025,Display,Awareness,Field Marketing,LATAM,Q3 2025,Completed,2025-07-14,15772.36,167784,729,0.435,8,1.134,21.64,1971.54,1703.3,0.11,96.1,False
+CMP-1037,Annual Conference Promo - Q4 2025,Display,Awareness,Field Marketing,APAC,Q4 2025,Active,2025-10-19,6128.83,258085,1602,0.621,19,1.245,3.83,322.57,15873.65,2.59,100.0,False
+CMP-1038,Annual Conference Promo - Q1 2026,Display,Awareness,Field Marketing,APAC,Q1 2026,Active,2026-01-17,6636.85,172749,600,0.348,3,0.575,11.06,2212.28,301.13,0.05,54.8,False
+CMP-1039,Case Study Distribution - Q3 2025,Content Syndication,Consideration,Product Marketing,North America,Q3 2025,Active,2025-07-25,14816.1,386620,8325,2.153,217,2.61,1.78,68.28,84742.77,5.72,100.0,False
+CMP-1040,Case Study Distribution - Q4 2025,Content Syndication,Consideration,Product Marketing,North America,Q4 2025,Completed,2025-10-26,20298.64,374858,6868,1.832,95,1.388,2.96,213.67,45977.44,2.27,80.6,False
+CMP-1041,Case Study Distribution - Q1 2026,Content Syndication,Consideration,Product Marketing,APAC,Q1 2026,Completed,2026-01-11,15703.66,387106,9699,2.506,235,2.424,1.62,66.82,174891.71,11.14,100.0,False
+CMP-1042,Customer Upsell Flow - Q3 2025,Email,Retention,Lifecycle,LATAM,Q3 2025,Active,2025-07-16,318.83,73327,2425,3.308,64,2.671,0.13,4.98,38697.25,121.37,100.0,False
+CMP-1043,Customer Upsell Flow - Q4 2025,Email,Retention,Lifecycle,North America,Q4 2025,Active,2025-10-09,346.97,33043,626,1.896,20,3.319,0.55,17.35,9479.74,27.32,100.0,False
+CMP-1044,Customer Upsell Flow - Q1 2026,Email,Retention,Lifecycle,North America,Q1 2026,Completed,2026-01-09,190.19,5772,279,4.848,8,2.9,0.68,23.77,5322.72,27.99,100.0,False
+CMP-1045,YouTube Pre-Roll Ads - Q3 2025,Display,Awareness,Brand,EMEA,Q3 2025,Active,2025-07-24,12655.41,213873,858,0.401,8,0.998,14.75,1581.93,1823.86,0.14,80.8,False
+CMP-1046,YouTube Pre-Roll Ads - Q4 2025,Display,Awareness,Brand,North America,Q4 2025,Completed,2025-10-18,16911.99,54012,296,0.549,1,0.519,57.14,16911.99,171.39,0.01,64.8,False
+CMP-1047,YouTube Pre-Roll Ads - Q1 2026,Display,Awareness,Brand,APAC,Q1 2026,Active,2026-01-11,7678.16,446167,1973,0.442,22,1.135,3.89,349.01,14485.99,1.89,99.8,False
+CMP-1048,SEO Landing Pages - Q3 2025,Organic Social,Consideration,Growth,North America,Q3 2025,Completed,2025-07-08,377.12,37411,251,0.671,1,0.627,1.5,377.12,117.44,0.31,52.6,False
+CMP-1049,SEO Landing Pages - Q4 2025,Organic Social,Consideration,Growth,EMEA,Q4 2025,Active,2025-10-29,184.45,20012,245,1.227,1,0.816,0.75,184.45,410.05,2.22,100.0,False
+CMP-1050,SEO Landing Pages - Q1 2026,Organic Social,Consideration,Growth,LATAM,Q1 2026,Active,2026-01-18,38.0,36830,212,0.578,3,1.62,0.18,12.67,2624.09,69.06,100.0,False
+CMP-1051,Direct Mail Executive - Q3 2025,Direct Mail,Consideration,Field Marketing,North America,Q3 2025,Active,2025-07-26,185.29,71317,1964,2.754,30,1.542,0.09,6.18,13273.86,71.64,100.0,False
+CMP-1052,Direct Mail Executive - Q4 2025,Direct Mail,Consideration,Field Marketing,LATAM,Q4 2025,Completed,2025-10-19,366.9,40400,1081,2.678,49,4.535,0.34,7.49,33014.51,89.98,100.0,False
+CMP-1053,Direct Mail Executive - Q1 2026,Direct Mail,Consideration,Field Marketing,APAC,Q1 2026,Completed,2026-01-05,43.33,64087,1144,1.785,34,3.034,0.04,1.27,16552.63,382.0,100.0,False
+CMP-1054,Abandoned Cart Recovery - Q3 2025,Email,Decision,Growth,EMEA,Q3 2025,Active,2025-07-11,129.18,41655,1931,4.638,85,4.45,0.07,1.52,8754.26,67.77,100.0,False
+CMP-1055,Abandoned Cart Recovery - Q4 2025,Email,Decision,Growth,LATAM,Q4 2025,Active,2025-10-06,345.3,69332,2208,3.186,40,1.816,0.16,8.63,12304.33,35.63,100.0,False
+CMP-1056,Abandoned Cart Recovery - Q1 2026,Email,Decision,Growth,APAC,Q1 2026,Active,2026-01-15,212.75,77140,2153,2.791,95,4.456,0.1,2.24,20775.36,97.65,100.0,False
+CMP-1057,Social Proof Campaign - Q3 2025,Paid Social,Awareness,Brand,North America,Q3 2025,Completed,2025-07-11,17563.93,110422,1139,1.032,21,1.859,15.42,836.38,23740.52,1.35,81.1,False
+CMP-1058,Social Proof Campaign - Q4 2025,Paid Social,Awareness,Brand,EMEA,Q4 2025,Active,2025-10-02,8254.42,381205,5676,1.489,81,1.443,1.45,101.91,74630.59,9.04,100.0,False
+CMP-1059,Social Proof Campaign - Q1 2026,Paid Social,Awareness,Brand,LATAM,Q1 2026,Active,2026-01-17,7824.14,260984,727,0.279,1,0.246,10.76,7824.14,289.77,0.04,12.4,True
+CMP-1060,Webinar Follow-Up Nurture - Q3 2025,Email,Consideration,Demand Gen,LATAM,Q3 2025,Active,2025-07-03,343.23,24887,542,2.181,21,3.917,0.63,16.34,13013.2,37.91,100.0,False
+CMP-1061,Webinar Follow-Up Nurture - Q4 2025,Email,Consideration,Demand Gen,EMEA,Q4 2025,Completed,2025-10-12,454.25,43974,2009,4.57,111,5.562,0.23,4.09,47448.87,104.45,100.0,False
+CMP-1062,Webinar Follow-Up Nurture - Q1 2026,Email,Consideration,Demand Gen,EMEA,Q1 2026,Paused,2025-12-31,40.59,36439,824,2.264,16,2.039,0.05,2.54,2110.85,52.0,100.0,False
+CMP-1063,PPC Brand Defense - Q3 2025,Paid Search,Awareness,Growth,EMEA,Q3 2025,Active,2025-07-02,21630.56,47318,2359,4.987,150,6.368,9.17,144.2,127127.34,5.88,100.0,False
+CMP-1064,PPC Brand Defense - Q4 2025,Paid Search,Awareness,Growth,North America,Q4 2025,Paused,2025-10-12,22801.87,443392,11960,2.697,284,2.376,1.91,80.29,233076.57,10.22,100.0,False
+CMP-1065,PPC Brand Defense - Q1 2026,Paid Search,Awareness,Growth,North America,Q1 2026,Active,2026-01-11,10660.2,152735,6417,4.202,281,4.381,1.66,37.94,19173.12,1.8,94.4,False
+CMP-1066,Holiday Promotion - Q3 2025,Email,Decision,Lifecycle,APAC,Q3 2025,Active,2025-07-20,337.15,7719,388,5.039,16,4.338,0.87,21.07,1856.46,5.51,100.0,False
+CMP-1067,Holiday Promotion - Q4 2025,Email,Decision,Lifecycle,LATAM,Q4 2025,Completed,2025-10-15,292.66,69451,3428,4.936,122,3.56,0.09,2.4,39970.06,136.57,100.0,False
+CMP-1068,Holiday Promotion - Q1 2026,Email,Decision,Lifecycle,LATAM,Q1 2026,Completed,2026-01-07,472.6,77102,1390,1.803,29,2.089,0.34,16.3,4260.37,9.01,100.0,False
+CMP-1069,Industry Report Launch - Q3 2025,Content Syndication,Awareness,Product Marketing,North America,Q3 2025,Completed,2025-07-17,10917.94,108347,1986,1.833,58,2.962,5.5,188.24,26938.9,2.47,99.8,False
+CMP-1070,Industry Report Launch - Q4 2025,Content Syndication,Awareness,Product Marketing,EMEA,Q4 2025,Completed,2025-10-16,17758.0,73662,701,0.952,20,2.983,25.33,887.9,18910.37,1.06,73.6,False
+CMP-1071,Industry Report Launch - Q1 2026,Content Syndication,Awareness,Product Marketing,LATAM,Q1 2026,Active,2026-01-14,22910.32,251931,6562,2.605,198,3.031,3.49,115.71,81109.96,3.54,100.0,False
+CMP-1072,Re-engagement Campaign - Q3 2025,Email,Retention,Lifecycle,LATAM,Q3 2025,Completed,2025-07-09,121.87,77255,1673,2.166,41,2.484,0.07,2.97,32176.98,264.04,100.0,False
+CMP-1073,Re-engagement Campaign - Q4 2025,Email,Retention,Lifecycle,LATAM,Q4 2025,Active,2025-10-07,133.59,5336,140,2.63,4,2.899,0.95,33.4,3914.58,29.3,100.0,False
+CMP-1074,Re-engagement Campaign - Q1 2026,Email,Retention,Lifecycle,LATAM,Q1 2026,Active,2026-01-11,271.72,64682,3114,4.814,158,5.098,0.09,1.72,85264.53,313.8,100.0,False
+CMP-1075,Instagram Stories Ads - Q3 2025,Paid Social,Awareness,Brand,LATAM,Q3 2025,Active,2025-07-25,17925.47,435411,5525,1.269,157,2.857,3.24,114.17,138049.31,7.7,100.0,False
+CMP-1076,Instagram Stories Ads - Q4 2025,Paid Social,Awareness,Brand,APAC,Q4 2025,Completed,2025-10-03,11567.35,285749,5803,2.031,53,0.93,1.99,218.25,19943.18,1.72,98.1,False
+CMP-1077,Instagram Stories Ads - Q1 2026,Paid Social,Awareness,Brand,APAC,Q1 2026,Active,2026-01-12,16596.08,456570,5447,1.193,121,2.235,3.05,137.16,106177.05,6.4,100.0,False
+CMP-1078,Demo Request Follow-Up - Q3 2025,Email,Decision,Demand Gen,North America,Q3 2025,Paused,2025-07-16,342.2,42667,2146,5.031,99,4.625,0.16,3.46,19372.34,56.61,100.0,False
+CMP-1079,Demo Request Follow-Up - Q4 2025,Email,Decision,Demand Gen,LATAM,Q4 2025,Active,2025-10-02,14.47,47516,2069,4.355,59,2.879,0.01,0.25,12102.34,836.17,100.0,False
+CMP-1080,Demo Request Follow-Up - Q1 2026,Email,Decision,Demand Gen,EMEA,Q1 2026,Active,2026-01-18,435.42,36566,255,0.698,1,0.758,1.71,435.42,371.86,0.85,23.9,True
+CMP-1081,Customer Advocacy Program - Q3 2025,Organic Social,Retention,Lifecycle,LATAM,Q3 2025,Completed,2025-07-01,78.99,62898,872,1.387,16,1.904,0.09,4.94,9558.61,121.01,100.0,False
+CMP-1082,Customer Advocacy Program - Q4 2025,Organic Social,Retention,Lifecycle,APAC,Q4 2025,Active,2025-10-26,241.6,36091,305,0.846,3,1.074,0.79,80.53,1377.69,5.7,100.0,False
+CMP-1083,Customer Advocacy Program - Q1 2026,Organic Social,Retention,Lifecycle,LATAM,Q1 2026,Active,2026-01-18,342.9,11428,154,1.354,2,1.584,2.23,171.45,2370.16,6.91,100.0,False
+CMP-1084,Competitive Comparison Ads - Q3 2025,Paid Search,Consideration,Growth,APAC,Q3 2025,Active,2025-07-20,7015.04,406140,20826,5.128,1071,5.145,0.34,6.55,958243.3,136.6,100.0,False
+CMP-1085,Competitive Comparison Ads - Q4 2025,Paid Search,Consideration,Growth,APAC,Q4 2025,Completed,2025-09-30,9756.67,78897,350,0.445,2,0.668,27.88,4878.33,739.9,0.08,3.6,True
+CMP-1086,Competitive Comparison Ads - Q1 2026,Paid Search,Consideration,Growth,APAC,Q1 2026,Paused,2026-01-25,20931.34,144726,8595,5.939,555,6.462,2.44,37.71,334093.26,15.96,100.0,False
+CMP-1087,Event Sponsorship Promo - Q3 2025,Display,Awareness,Field Marketing,LATAM,Q3 2025,Completed,2025-07-04,24196.01,460961,558,0.121,1,0.188,43.36,24196.01,645.52,0.03,19.9,True
+CMP-1088,Event Sponsorship Promo - Q4 2025,Display,Awareness,Field Marketing,LATAM,Q4 2025,Active,2025-10-24,11914.86,362755,2174,0.6,13,0.631,5.48,916.53,6541.52,0.55,79.4,False
+CMP-1089,Event Sponsorship Promo - Q1 2026,Display,Awareness,Field Marketing,LATAM,Q1 2026,Active,2026-01-04,14473.78,489857,2610,0.533,25,0.97,5.55,578.95,14400.89,0.99,100.0,False
+CMP-1090,Mid-Market Outbound - Q3 2025,Email,Consideration,Demand Gen,North America,Q3 2025,Active,2025-07-14,152.18,69569,1440,2.07,38,2.654,0.11,4.0,17099.05,112.36,100.0,False
+CMP-1091,Mid-Market Outbound - Q4 2025,Email,Consideration,Demand Gen,LATAM,Q4 2025,Paused,2025-10-21,442.71,17978,805,4.481,33,4.12,0.55,13.42,18776.16,42.41,100.0,False
+CMP-1092,Mid-Market Outbound - Q1 2026,Email,Consideration,Demand Gen,LATAM,Q1 2026,Completed,2026-01-11,49.68,53147,1865,3.509,102,5.515,0.03,0.49,35178.97,708.15,100.0,False
+CMP-1093,Product Update Announcement - Q3 2025,Email,Retention,Product Marketing,LATAM,Q3 2025,Active,2025-07-31,319.75,7799,144,1.85,4,3.034,2.22,79.94,4888.55,15.29,100.0,False
+CMP-1094,Product Update Announcement - Q4 2025,Email,Retention,Product Marketing,EMEA,Q4 2025,Paused,2025-10-23,116.5,24340,1053,4.33,42,4.045,0.11,2.77,24423.92,209.65,100.0,False
+CMP-1095,Product Update Announcement - Q1 2026,Email,Retention,Product Marketing,EMEA,Q1 2026,Active,2026-01-05,65.9,51955,2251,4.334,60,2.666,0.03,1.1,12124.68,183.98,100.0,False
+CMP-1096,Referral Program Push - Q3 2025,Email,Retention,Growth,North America,Q3 2025,Completed,2025-07-14,389.01,72271,2655,3.675,92,3.49,0.15,4.23,32442.64,83.4,100.0,False
+CMP-1097,Referral Program Push - Q4 2025,Email,Retention,Growth,APAC,Q4 2025,Active,2025-10-20,30.41,67781,3068,4.527,104,3.391,0.01,0.29,29734.64,977.7,100.0,False
+CMP-1098,Referral Program Push - Q1 2026,Email,Retention,Growth,EMEA,Q1 2026,Active,2026-01-07,316.54,76874,3130,4.073,100,3.216,0.1,3.17,40940.98,129.34,100.0,False
+CMP-1099,Podcast Sponsorship - Q3 2025,Display,Awareness,Brand,North America,Q3 2025,Completed,2025-07-04,19455.11,387927,2542,0.655,19,0.778,7.65,1023.95,13207.68,0.68,100.0,False
+CMP-1100,Podcast Sponsorship - Q4 2025,Display,Awareness,Brand,North America,Q4 2025,Active,2025-10-12,7117.36,90026,512,0.57,4,0.817,13.9,1779.34,337.63,0.05,82.7,False
+CMP-1101,Podcast Sponsorship - Q1 2026,Display,Awareness,Brand,APAC,Q1 2026,Completed,2026-01-20,15075.16,304433,1551,0.51,15,0.99,9.72,1005.01,10167.32,0.67,100.0,False
+CMP-1102,Account Expansion Plays - Q3 2025,Email,Retention,Lifecycle,North America,Q3 2025,Completed,2025-07-28,175.82,71507,1712,2.395,73,4.278,0.1,2.41,9797.76,55.73,100.0,False
+CMP-1103,Account Expansion Plays - Q4 2025,Email,Retention,Lifecycle,APAC,Q4 2025,Paused,2025-10-02,422.58,77972,1378,1.768,73,5.327,0.31,5.79,36544.21,86.48,100.0,False
+CMP-1104,Account Expansion Plays - Q1 2026,Email,Retention,Lifecycle,APAC,Q1 2026,Completed,2026-01-21,90.7,23776,851,3.583,28,3.293,0.11,3.24,8141.02,89.75,100.0,False
+CMP-1105,TikTok Awareness Campaign - Q3 2025,Paid Social,Awareness,Brand,EMEA,Q3 2025,Active,2025-07-17,4777.82,173387,3050,1.759,74,2.438,1.57,64.57,16784.55,3.51,100.0,False
+CMP-1106,TikTok Awareness Campaign - Q4 2025,Paid Social,Awareness,Brand,North America,Q4 2025,Completed,2025-10-23,16886.53,264626,4218,1.594,72,1.72,4.0,234.54,21866.9,1.29,87.9,False
+CMP-1107,TikTok Awareness Campaign - Q1 2026,Paid Social,Awareness,Brand,LATAM,Q1 2026,Paused,2026-01-06,6292.44,324218,2590,0.799,33,1.305,2.43,190.68,38070.5,6.05,100.0,False
+CMP-1108,Gated Content Downloads - Q3 2025,Content Syndication,Consideration,Demand Gen,North America,Q3 2025,Active,2025-07-11,5216.68,209338,3890,1.859,73,1.883,1.34,71.46,49848.67,9.56,100.0,False
+CMP-1109,Gated Content Downloads - Q4 2025,Content Syndication,Consideration,Demand Gen,North America,Q4 2025,Active,2025-10-26,2868.7,174133,3371,1.936,95,2.827,0.85,30.2,55451.94,19.33,100.0,False
+CMP-1110,Gated Content Downloads - Q1 2026,Content Syndication,Consideration,Demand Gen,APAC,Q1 2026,Active,2026-01-27,12042.33,371554,9495,2.556,141,1.492,1.27,85.41,67927.57,5.64,100.0,False
+CMP-1111,Win-Back Campaign - Q3 2025,Email,Retention,Lifecycle,LATAM,Q3 2025,Completed,2025-07-03,110.79,27037,523,1.937,21,4.188,0.21,5.28,6263.0,56.53,100.0,False
+CMP-1112,Win-Back Campaign - Q4 2025,Email,Retention,Lifecycle,EMEA,Q4 2025,Active,2025-10-22,98.64,25036,229,0.919,1,0.809,0.43,98.64,375.52,3.81,57.0,True
+CMP-1113,Win-Back Campaign - Q1 2026,Email,Retention,Lifecycle,LATAM,Q1 2026,Completed,2026-01-15,321.5,47363,2171,4.584,90,4.165,0.15,3.57,8656.38,26.93,100.0,False
+CMP-1114,Regional Field Event - Q3 2025,Direct Mail,Consideration,Field Marketing,APAC,Q3 2025,Paused,2025-07-26,37.1,65521,1496,2.285,25,1.688,0.02,1.48,7425.26,200.17,100.0,False
+CMP-1115,Regional Field Event - Q4 2025,Direct Mail,Consideration,Field Marketing,LATAM,Q4 2025,Active,2025-10-01,395.91,10376,236,2.279,9,4.172,1.68,43.99,4151.28,10.49,100.0,False
+CMP-1116,Regional Field Event - Q1 2026,Direct Mail,Consideration,Field Marketing,North America,Q1 2026,Active,2026-01-27,418.69,16053,387,2.411,8,2.069,1.08,52.34,2347.62,5.61,100.0,False
+CMP-1117,Cross-Sell Automation - Q3 2025,Email,Decision,Lifecycle,EMEA,Q3 2025,Active,2025-07-20,193.71,49350,1954,3.961,38,1.952,0.1,5.1,17521.73,90.45,100.0,False
+CMP-1118,Cross-Sell Automation - Q4 2025,Email,Decision,Lifecycle,LATAM,Q4 2025,Active,2025-10-20,328.28,24709,691,2.8,27,3.994,0.48,12.16,5173.54,15.76,100.0,False
+CMP-1119,Cross-Sell Automation - Q1 2026,Email,Decision,Lifecycle,LATAM,Q1 2026,Active,2026-01-18,42.36,78259,2305,2.946,110,4.798,0.02,0.39,100866.37,2381.2,100.0,False
