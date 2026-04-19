@@ -2,7 +2,7 @@
 
 An AI-powered marketing operations dashboard that ingests campaign data, detects performance anomalies, scores campaign health, and generates optimization recommendations using GPT-4o.
 
-**[Live Demo](https://campaign-intel-hub.streamlit.app)** | Built by [Rahul Muddhapuram](https://github.com/rahul0443)
+**[Live Demo](https://campaign-intel.streamlit.app)** | Built by [Rahul Muddhapuram](https://github.com/rahul0443)
 
 ---
 
